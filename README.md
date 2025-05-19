@@ -14,15 +14,15 @@ This project is an interactive Power BI dashboard designed to analyze the perfor
 ## Screenshots
 ### Dashboard Pages
 - **Passenger Usage:** Visualizes journey trends and peak travel times. ![Passenger Usage](https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Passenger%20Usage.png)
-- **Sales Performance:** Displays revenue trends and ticket type breakdown (Add screenshot path here: e.g., `Sales_Performance.png`).
-- **Route Analysis:** Highlights top and bottom routes by revenue (Add screenshot path here: e.g., `Route_Analysis.png`).
-- **Cancelled & Delayed:** Shows cancellation/delay trends and reasons (Add screenshot path here: e.g., `Cancelled_Delayed.png`).
+- **Sales Performance:** Displays revenue trends and ticket type breakdown. ![Sales Performance](https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Preformance%20Analysis.png)
+- **Route Analysis:** Highlights top and bottom routes by revenue. ![Route Analysis](https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Rout%20Analysis.png)
+- **Cancelled & Delayed:** Shows cancellation/delay trends and reasons. ![Cancelled & Delayed](https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Cancelled%26%20Delayed.png)
 
 ## Tools Used
 - **Power BI:** For data visualization and dashboard creation.
 - **Power Query:** data cleaning and transformation. 
 - **DAX(Data Analysis Expressions):** For creating calculated measures. 
-- **Data Sources:** Excel/CSV (`Finance Dataset.xlsx`).
+- **Data Sources:** Excel/CSV (`railway.csv`).
 
 
 

@@ -36,8 +36,21 @@ This project is an interactive Power BI dashboard designed to analyze the perfor
 - **Delays and Refunds:** Weather caused the most delays (927) with 0% refunds; technical issues (268 delays) had a 67% refund rate. Shorter delays (≤1 minute) had a 76% refund rate, while delays >60 minutes had 0%.
 
 ## Recommendations
-Based on the analysis, a revised refund policy is recommended to address inefficiencies:
+Based on the analysis, the following recommendations are proposed to improve service reliability and customer satisfaction:
+
+### Refund Policy Adjustments
+To address inefficiencies in the current refund system:
 - No refunds for delays less than 15 minutes.
 - 25% refund for delays between 15-30 minutes.
 - 50% refund for delays between 30-60 minutes.
 - 100% refund for delays over 60 minutes.
+
+### Reduce Cancellations and Delays
+To tackle the primary causes of service disruptions:
+- Invest in signal system upgrades and preventive maintenance to reduce failures, the top cause of cancellations.
+- Improve staff scheduling and training to address staffing-related disruptions.
+- Implement weather-resilient infrastructure (e.g., track heating, drainage systems) to handle seasonal disruptions.
+
+
+
+

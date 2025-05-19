@@ -13,7 +13,7 @@ This project is an interactive Power BI dashboard designed to analyze the perfor
 
 ## Screenshots
 ### Dashboard Pages
-- **Passenger Usage:** Visualizes journey trends and peak travel times. (![Passenger Usage](https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Passenger%20Usage.png)
+- **Passenger Usage:** Visualizes journey trends and peak travel times. (https://github.com/Mahdy-Wagdy/UK-Train-DEPI-Project/blob/main/SCREENSHOT/Passenger%20Usage.png)
 - **Sales Performance:** Displays revenue trends and ticket type breakdown (Add screenshot path here: e.g., `Sales_Performance.png`).
 - **Route Analysis:** Highlights top and bottom routes by revenue (Add screenshot path here: e.g., `Route_Analysis.png`).
 - **Cancelled & Delayed:** Shows cancellation/delay trends and reasons (Add screenshot path here: e.g., `Cancelled_Delayed.png`).
